@@ -1,12 +1,12 @@
 # Intro to React + Hooks - Build a TODO App
 
-* Following [W3CJ](https://github.com/CodingGarden/intro-react-hooks-todo/blob/master/README.md) to learn react including hooks
+* Following [W3CJ / CodingGarden](https://github.com/CodingGarden/intro-react-hooks-todo) to learn react including hooks
 
 
-* [ ] What is react?
-* [ ] What is JSX?
-* [ ] What is the "Virtual DOM"?
-* [ ] create-react-app
+* [x] What is react?
+* [x] What is JSX?
+* [x] What is the "Virtual DOM"?
+* [x] create-react-app
 * [ ] Show message from state on page
   * [ ] What is useState?
 * [ ] Create New Todo Form
