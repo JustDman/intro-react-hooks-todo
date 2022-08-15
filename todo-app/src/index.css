@@ -7,9 +7,28 @@ body {
   margin: 0 auto;
 }
 input, textarea, button, p, div, section, article, select {
-  display: 'block';
+  display: block;
   width: 100%;
   font-family: sans-serif;
   font-size: 1em;
   margin: 0.5em;
+}
+ul {
+  list-style: none;
+}
+
+li input, li label, li button {
+  display: inline;
+  max-width: max-content;
+  text-align: center;
+  vertical-align: middle;
+} 
+
+
+[type="checkbox"] {
+  transform: scale(2);
+}
+
+.done {
+  text-decoration: line-through;
 }
