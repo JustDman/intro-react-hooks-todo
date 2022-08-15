@@ -7,8 +7,8 @@
 * [x] What is JSX?
 * [x] What is the "Virtual DOM"?
 * [x] create-react-app
-* [ ] Show message from state on page
-  * [ ] What is useState?
+* [x] Show message from state on page
+  * [x] What is useState?
 * [ ] Create New Todo Form
 * [ ] Call a function when the form is submitted
   * [ ] What is useCallback?
